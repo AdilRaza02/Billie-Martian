@@ -11,7 +11,7 @@
  ``npm start``
 
 ## Test
-``npm test``
+``npm test a``
 
 ## Test Cases
 
