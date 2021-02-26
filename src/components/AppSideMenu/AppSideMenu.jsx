@@ -45,7 +45,9 @@ function AppSideMenu() {
           <Link to="/customers" />
         </Menu.Item>
         <Menu.Item key="/codebase" icon={<CodeOutlined />}>
-          <a href="https://adilraza02.github.io/Billie-Martian-Home-Test/">Codebase</a>
+          <a href="https://github.com/AdilRaza02/Billie-Martian-Home-Test">
+            Codebase
+          </a>
         </Menu.Item>
       </Menu>
     </Layout.Sider>
