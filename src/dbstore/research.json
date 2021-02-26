@@ -1,0 +1,19 @@
+{
+  "problem_title": "Our Martian employees could face challenges such as:",
+  "problems": [
+    "Lack of Oxygen",
+    "No sun radiation shields",
+    "Limited water resources",
+    "Short supply of food due to harsh weather conditions",
+    "Phycological issues",
+    "Living far away from Earth"
+  ],
+  "hmw_question": "How might we make our Martian employees general environment similar to the Earth using resources available on Mars?",
+  "solutions": [
+    "As carbondioxide is mostly found on Mars, we could develop a mask which strips carbon and liberates oxygen",
+    "Restricted zones covered with radiation filters to simulate exposure of radiations found on Earth",
+    "Mars is filled with ice, the filtering radiation mechanism can help produce heat to melt the ice and covert it to consumable water",
+    "Greenhouse formation with controlled atmosphere to grow plants would be an option as Mars has similar day/night concept we see living on Earth",
+    "Community-based efforts and participation to resolve all basic necessary day-to-day challenges "
+  ]
+}

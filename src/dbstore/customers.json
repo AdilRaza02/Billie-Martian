@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Martian Firma",
+    "budget": 10000.0,
+    "budget_spent": 4500.0,
+    "date_of_first_purchase": "2119-07-07"
+  },
+  {
+    "id": 2,
+    "name": "Solar Firma",
+    "budget": 11200.32,
+    "budget_spent": 451.37,
+    "date_of_first_purchase": "2120-01-14"
+  },
+  {
+    "id": 3,
+    "name": "Pluto Firma",
+    "budget": 50000,
+    "budget_spent": 300,
+    "date_of_first_purchase": "2130-03-21"
+  },
+  {
+    "id": 4,
+    "name": "Earth Firma",
+    "budget": 70000,
+    "budget_spent": 100,
+    "date_of_first_purchase": "2140-05-28"
+  },
+  {
+    "id": 5,
+    "name": "Mercury Firma",
+    "budget": 800000,
+    "budget_spent": 40010,
+    "date_of_first_purchase": "2120-08-12"
+  }
+]
